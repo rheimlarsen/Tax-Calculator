@@ -265,6 +265,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.rheim.Tax-Calculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -278,6 +279,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.rheim.Tax-Calculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -300,6 +302,7 @@
 				25808F3B1F38C4CC003B511F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
